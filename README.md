@@ -12,9 +12,7 @@
  
  🔭 I’m currently working on **React & Backend Projects**
  
- 🌱 I’m currently learning **DSA**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 🌱 **I Was Trying To Fix One Bug , Created 8 More**
 
  </div>
 
