@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **React & Backend Projects**
  
- 🌱 **I Was Trying To Fix One Bug , Created 8 More**
+ 🥀 **I Was Trying To Fix One Bug , Created 10 More**
 
  </div>
 
